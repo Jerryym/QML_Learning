@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qt/qml">
+        <file>main.qml</file>
+        <file>res/fonts/PlaywriteCU.ttf</file>
+        <file>res/pic0.jpg</file>
+    </qresource>
+</RCC>
