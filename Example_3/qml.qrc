@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>res/headphones.png</file>
+        <file>AudioInfoBox.qml</file>
+        <file>res/pause_circle.png</file>
+        <file>res/play_circle.png</file>
+        <file>res/skip_next.png</file>
+        <file>res/skip_previous.png</file>
+        <file>ImageButton.qml</file>
+        <file>res/LIVING_THINGS.jpg</file>
+    </qresource>
+</RCC>
